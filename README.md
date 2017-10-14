@@ -10,5 +10,5 @@ advancement at the group, class or community level.
 Check out the Shinyapp demo for the integrated analysis https://fanouyang.shinyapps.io/CogEng_Role/
 
 ref:
-Ouyang, F. & Chang, Y. H. (under review). Using a multi-methodological approach to examine collaborative inquiry in online discussions. The Internet and Higher Education.
+Ouyang, F. & Chang, Y. H. (under review). Using a multi-methodological approach to examine collaborative inquiry in online discussions. *The Internet and Higher Education*.
 
